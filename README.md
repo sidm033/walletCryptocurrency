@@ -38,10 +38,8 @@ npm run ios
 yarn ios
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+The UI template to React Native: Building a wallet cryptocurrency mobile app (Part -1 ans Part-2)
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+![Screenshot](/assets/page-1.png)
 
-![Screenshot](assets/Screenshot 2023-08-12 at 10.18.07 PM.png)
-
-![Screenshot](assets/Screenshot 2023-08-12 at 10.18.16 PM.png)
+![Screenshot](/assets/page-2.png)
